@@ -12,7 +12,6 @@ This is a hybrid mobile/web application built using **Angular 9**, **Ionic 5**, 
 - Integrated with file system and camera plugins (Cordova/Capacitor)
 - Responsive UI using Bootstrap and Ionic components
 - Includes authentication module and centralized HTTP error handling
-- Real-time notifications and image sharing options
 
 
 ## Installation
